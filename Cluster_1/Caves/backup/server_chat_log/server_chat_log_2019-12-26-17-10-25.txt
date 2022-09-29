@@ -1,0 +1,6 @@
+[00:01:12]: [Join Announcement] zhufree
+[00:04:13]: [Join Announcement] sym1018
+[00:59:44]: [Skin Announcement] sym1018 mysterybox_ice_4
+[01:09:39]: [Skin Announcement] zhufree mysterybox_ice_4
+[01:24:42]: [Death Announcement] sym1018 死于： 蜘蛛. 他变成了可怕的鬼魂！
+[01:25:08]: [Leave Announcement] zhufree

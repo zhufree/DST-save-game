@@ -1,0 +1,12 @@
+[00:00:57]: [Join Announcement] zhufree
+[00:01:02]: [Announcement] 世界将在35秒后重新加载翻新。
+[00:01:03]: [Announcement] 世界将在25秒后重新加载翻新。
+[00:01:07]: [Announcement] 世界将在30秒后重新加载翻新。
+[00:01:08]: [Announcement] 世界将在20秒后重新加载翻新。
+[00:01:13]: [Announcement] 世界将在15秒后重新加载翻新。
+[00:01:17]: [Announcement] 世界将在20秒后重新加载翻新。
+[00:01:18]: [Announcement] 世界将在10秒后重新加载翻新。
+[00:01:24]: [Announcement] 世界将在5秒后重新加载翻新。
+[00:01:28]: [Announcement] 世界将在10秒后重新加载翻新。
+[00:01:28]: [Announcement] 重新载入世界中，翻新即将完成。
+[00:10:04]: [Leave Announcement] zhufree

@@ -1,0 +1,5 @@
+[00:00:43]: [Join Announcement] zhufree
+[00:01:37]: [Join Announcement] sym1018
+[00:02:37]: [Resurrect Announcement] sym1018 被此人复活： 绚丽之门.
+[00:31:19]: [Leave Announcement] sym1018
+[00:37:36]: [Leave Announcement] zhufree

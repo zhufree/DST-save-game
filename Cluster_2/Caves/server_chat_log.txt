@@ -1,0 +1,11 @@
+[00:01:34]: [Join Announcement] zhufree
+[00:02:17]: [System Message] HSR"3245556618",1,"GemCore",1,"3245556618",{tags={"cave"}}
+[00:11:09]: [System Message] HSR"3245556618",1,"GlobalPause",1
+[00:13:03]: [Join Announcement] 八号风球
+[00:14:38]: [Say] (KU_dbGJo5_W) 八号风球: 八号风球
+[00:16:05]: [Join Announcement] 菲特今晚留下来
+[00:38:06]: [Skin Announcement] zhufree mysterybox_ice_4
+[00:49:11]: [Death Announcement] 菲特今晚留下来 死于： 饥饿. 她变成了可怕的鬼魂！
+[00:54:25]: [Resurrect Announcement] 菲特今晚留下来 被此人复活： 骷髅.
+[01:15:07]: [Leave Announcement] 八号风球
+[01:16:01]: [Leave Announcement] zhufree

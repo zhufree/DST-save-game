@@ -1,0 +1,11 @@
+[00:01:02]: [Join Announcement] zhufree
+[00:04:57]: [Join Announcement] 上等牛肉干
+[00:05:57]: [Skin Announcement] 上等牛肉干 body_silk_eveningrobe_pink_ewecus
+[00:07:13]: [Join Announcement] happyalpaca
+[00:13:22]: [Death Announcement] happyalpaca 死于： 青蛙。她变成了可怕的鬼魂！
+[00:17:19]: [Resurrect Announcement] happyalpaca 复活自： 绚丽之门.
+[00:18:06]: [Death Announcement] 上等牛肉干 死于： 爬行恐惧。她变成了可怕的鬼魂！
+[00:51:37]: [Skin Announcement] zhufree feet_wilson_ice
+[01:15:27]: [Leave Announcement] happyalpaca
+[01:15:46]: [Leave Announcement] 上等牛肉干
+[01:16:16]: [Leave Announcement] zhufree
