@@ -110,17 +110,17 @@ KLEI     1 return {
     description="",
     encode_user_path=true,
     game_mode="survival",
-    intention="cooperative",
     max_players=6,
     name="即友饥荒会所",
     online_mode=true,
     password="123123",
+    playstyle="survival",
     privacy_type=0,
     pvp=false,
     server_language="zh" 
   },
   session_id="73952BED9CABEEFF",
-  version=4,
+  version=5,
   world={
     options={
       desc="标准《饥荒》体验。",

@@ -8,6 +8,7 @@ return {
       ["MemSpikeFixworkshop-1686705509"]="default",
       ["MemSpikeFixworkshop-1699194522"]="default",
       ["MemSpikeFixworkshop-1918927570"]="default",
+      ["MemSpikeFixworkshop-2801144962"]="default",
       ["MemSpikeFixworkshop-345692228"]="default",
       ["MemSpikeFixworkshop-347079953"]="default",
       ["MemSpikeFixworkshop-351325790"]="default",
@@ -37,6 +38,7 @@ return {
     enabled=true 
   },
   ["workshop-1686705509"]={ configuration_options={  }, enabled=true },
+  ["workshop-2801144962"]={ configuration_options={  }, enabled=true },
   ["workshop-347079953"]={
     configuration_options={ DFV_Language="EN", DFV_MinimalMode="default" },
     enabled=true 
@@ -56,6 +58,24 @@ return {
       show_type=0,
       unknwon_prefabs=1,
       use_blacklist=true 
+    },
+    enabled=true 
+  },
+  ["workshop-458940297"]={
+    configuration_options={
+      DFV_ClientPrediction="default",
+      DFV_FueledSettings="default",
+      DFV_Language="EN",
+      DFV_MinimalMode="default",
+      DFV_PercentReplace="default",
+      DFV_ShowACondition="default",
+      DFV_ShowADefence="default",
+      DFV_ShowAType="default",
+      DFV_ShowDamage="default",
+      DFV_ShowFireTime="default",
+      DFV_ShowInsulation="default",
+      DFV_ShowTemperature="default",
+      DFV_ShowUses="default" 
     },
     enabled=true 
   },

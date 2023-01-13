@@ -1,0 +1,18 @@
+[00:00:54]: [Join Announcement] zhufree
+[00:05:22]: [Join Announcement] yookuroi
+[00:07:37]: [Leave Announcement] yookuroi
+[00:10:10]: [Join Announcement] yookuroi
+[00:18:32]: [Leave Announcement] yookuroi
+[00:21:08]: [Join Announcement] yookuroi
+[00:30:07]: [Join Announcement] Guluu97
+[00:48:46]: [Death Announcement] Guluu97 死于： 饥饿。她变成了可怕的鬼魂！
+[00:50:15]: [Resurrect Announcement] Guluu97 复活自： 绚丽之门.
+[01:03:00]: [Skin Announcement] zhufree feet_captoe_shoe_brown_beaver
+[01:18:10]: [Skin Announcement] Guluu97 winona_nature
+[01:46:56]: [Death Announcement] Guluu97 死于： 饥饿。她变成了可怕的鬼魂！
+[01:48:16]: [Resurrect Announcement] Guluu97 复活自： yookuroi.
+[02:20:59]: [Death Announcement] Guluu97 死于： 饥饿。她变成了可怕的鬼魂！
+[02:23:10]: [Skin Announcement] zhufree body_trimmed_blouse_red_higgsbury
+[02:26:43]: [Resurrect Announcement] Guluu97 复活自： 绚丽之门.
+[02:34:18]: [Leave Announcement] Guluu97
+[02:34:18]: [Leave Announcement] yookuroi

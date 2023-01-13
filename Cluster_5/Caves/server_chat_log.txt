@@ -1,16 +1,33 @@
-[00:00:54]: [Join Announcement] zhufree
-[00:05:22]: [Join Announcement] yookuroi
-[00:07:37]: [Leave Announcement] yookuroi
-[00:10:10]: [Join Announcement] yookuroi
-[00:18:32]: [Leave Announcement] yookuroi
-[00:21:08]: [Join Announcement] yookuroi
-[00:30:07]: [Join Announcement] Guluu97
-[00:48:46]: [Death Announcement] Guluu97 死于： 饥饿。她变成了可怕的鬼魂！
-[00:50:15]: [Resurrect Announcement] Guluu97 复活自： 绚丽之门.
-[01:03:00]: [Skin Announcement] zhufree feet_captoe_shoe_brown_beaver
-[01:18:10]: [Skin Announcement] Guluu97 winona_nature
-[01:46:56]: [Death Announcement] Guluu97 死于： 饥饿。她变成了可怕的鬼魂！
-[01:48:16]: [Resurrect Announcement] Guluu97 复活自： yookuroi.
-[02:20:59]: [Death Announcement] Guluu97 死于： 饥饿。她变成了可怕的鬼魂！
-[02:23:10]: [Skin Announcement] zhufree body_trimmed_blouse_red_higgsbury
-[02:26:43]: [Resurrect Announcement] Guluu97 复活自： 绚丽之门.
+[00:01:07]: [Join Announcement] zhufree
+[00:04:39]: [Join Announcement] Averxx
+[00:11:21]: [Death Announcement] Averxx 死于： 黑暗。他变成了可怕的鬼魂！
+[00:14:58]: [Resurrect Announcement] Averxx 复活自： 绚丽之门.
+[00:25:08]: [Death Announcement] Averxx 死于： 浣猫。他变成了可怕的鬼魂！
+[00:28:21]: [Resurrect Announcement] Averxx 复活自： 绚丽之门.
+[00:35:16]: [Death Announcement] Averxx 死于： 黑暗。他变成了可怕的鬼魂！
+[00:36:14]: [Resurrect Announcement] Averxx 复活自： 绚丽之门.
+[00:50:16]: [Skin Announcement] zhufree legs_skirt_basic_blue_peacock
+[01:01:15]: [Death Announcement] Averxx 死于： 饥饿。他变成了可怕的鬼魂！
+[01:01:59]: [Leave Announcement] Averxx
+[01:04:13]: [Join Announcement] Averxx
+[01:06:45]: [Resurrect Announcement] Averxx 复活自： 绚丽之门.
+[01:15:17]: [Skin Announcement] Averxx legs_webber_ice
+[01:15:28]: [Join Announcement] yookuroi
+[01:22:14]: [Leave Announcement] Averxx
+[01:23:12]: [Join Announcement] Averxx
+[01:25:55]: [Death Announcement] Averxx 死于： 皮弗娄牛。他变成了可怕的鬼魂！
+[01:28:13]: [Resurrect Announcement] Averxx 复活自： 绚丽之门.
+[01:55:51]: [Death Announcement] Averxx 死于： 火。他变成了可怕的鬼魂！
+[01:57:28]: [Skin Announcement] zhufree body_tweedvest_blue_lightning
+[01:58:07]: [Resurrect Announcement] Averxx 复活自： 绚丽之门.
+[02:02:39]: [Leave Announcement] Averxx
+[02:04:06]: [Join Announcement] Averxx
+[02:12:36]: [Death Announcement] Averxx 死于： 猎犬。他变成了可怕的鬼魂！
+[02:15:02]: [Resurrect Announcement] Averxx 复活自： 绚丽之门.
+[02:28:24]: [Death Announcement] Averxx 死于： 杀人蜂。他变成了可怕的鬼魂！
+[02:29:43]: [Resurrect Announcement] Averxx 复活自： 绚丽之门.
+[02:41:14]: [Skin Announcement] Averxx shovel_invisible
+[02:42:34]: [Leave Announcement] Averxx
+[02:44:31]: [Join Announcement] Averxx
+[02:51:54]: [Leave Announcement] Averxx
+[02:52:10]: [Leave Announcement] zhufree

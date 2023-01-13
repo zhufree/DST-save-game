@@ -1,0 +1,13 @@
+[00:00:59]: [Join Announcement] zhufree
+[00:22:12]: [Join Announcement] zxqace
+[00:35:30]: [Leave Announcement] zxqace
+[00:37:19]: [Join Announcement] zxqace
+[00:45:25]: [Death Announcement] zxqace 死于： 黑暗。她变成了可怕的鬼魂！
+[00:51:17]: [Resurrect Announcement] zxqace 复活自： 绚丽之门.
+[01:01:40]: [Skin Announcement] zhufree legs_wortox_nature
+[01:10:44]: [Leave Announcement] zxqace
+[01:11:49]: [Join Announcement] zxqace
+[01:16:23]: [Death Announcement] zxqace 死于： 饥饿。她变成了可怕的鬼魂！
+[01:16:41]: [Resurrect Announcement] zxqace 复活自： 绚丽之门.
+[01:22:06]: [Leave Announcement] zxqace
+[01:53:00]: [Leave Announcement] zhufree

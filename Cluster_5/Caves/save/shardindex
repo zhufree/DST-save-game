@@ -9,6 +9,7 @@ KLEI     1 return {
         ["MemSpikeFixworkshop-1686705509"]="default",
         ["MemSpikeFixworkshop-1699194522"]="default",
         ["MemSpikeFixworkshop-1918927570"]="default",
+        ["MemSpikeFixworkshop-2801144962"]="default",
         ["MemSpikeFixworkshop-345692228"]="default",
         ["MemSpikeFixworkshop-347079953"]="default",
         ["MemSpikeFixworkshop-351325790"]="default",
@@ -38,6 +39,7 @@ KLEI     1 return {
       enabled=true 
     },
     ["workshop-1686705509"]={ configuration_options={  }, enabled=true },
+    ["workshop-2801144962"]={ configuration_options={  }, enabled=true },
     ["workshop-347079953"]={
       configuration_options={ DFV_Language="EN", DFV_MinimalMode="default" },
       enabled=true 
@@ -57,6 +59,24 @@ KLEI     1 return {
         show_type=0,
         unknwon_prefabs=1,
         use_blacklist=true 
+      },
+      enabled=true 
+    },
+    ["workshop-458940297"]={
+      configuration_options={
+        DFV_ClientPrediction="default",
+        DFV_FueledSettings="default",
+        DFV_Language="EN",
+        DFV_MinimalMode="default",
+        DFV_PercentReplace="default",
+        DFV_ShowACondition="default",
+        DFV_ShowADefence="default",
+        DFV_ShowAType="default",
+        DFV_ShowDamage="default",
+        DFV_ShowFireTime="default",
+        DFV_ShowInsulation="default",
+        DFV_ShowTemperature="default",
+        DFV_ShowUses="default" 
       },
       enabled=true 
     },
@@ -102,18 +122,18 @@ KLEI     1 return {
     clan={ admin=false, id="", only=false },
     description="",
     encode_user_path=true,
-    game_mode="endless",
-    intention="cooperative",
+    game_mode="survival",
     max_players=6,
     name="zhufree-world",
     online_mode=true,
     password="",
+    playstyle="endless",
     privacy_type=1,
     pvp=false,
     server_language="zh" 
   },
   session_id="7DC267C0955A11ED",
-  version=4,
+  version=5,
   world={
     options={
       background_node_range={ 0, 1 },
@@ -129,6 +149,7 @@ KLEI     1 return {
       overrides={
         atriumgate="default",
         banana="default",
+        basicresource_regrowth="always",
         bats="default",
         bats_setting="default",
         beefaloheat="default",
@@ -154,6 +175,7 @@ KLEI     1 return {
         flower_cave="default",
         flower_cave_regrowth="default",
         fruitfly="default",
+        ghostsanitydrain="none",
         grass="default",
         grassgekkos="default",
         hallowed_nights="default",
@@ -177,9 +199,11 @@ KLEI     1 return {
         mushtree_regrowth="default",
         nightmarecreatures="default",
         pigs_setting="default",
+        portalresurection="always",
         prefabswaps_start="default",
         reeds="default",
         regrowth="default",
+        resettime="none",
         roads="never",
         rock="default",
         rocky="default",

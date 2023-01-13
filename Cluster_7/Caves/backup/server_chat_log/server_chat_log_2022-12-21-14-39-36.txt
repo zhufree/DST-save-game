@@ -1,0 +1,4 @@
+[00:00:54]: [Join Announcement] zhufree
+[01:25:58]: [Skin Announcement] zhufree legs_checkered_pleats_blue_cornflower
+[05:15:48]: [Death Announcement] zhufree 死于： 海草。她变成了可怕的鬼魂！
+[05:15:54]: [Leave Announcement] zhufree

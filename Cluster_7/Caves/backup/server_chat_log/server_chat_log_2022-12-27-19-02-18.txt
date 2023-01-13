@@ -1,0 +1,4 @@
+[00:01:10]: [Join Announcement] zhufree
+[00:04:02]: [Vote Announcement] rollback passed
+[00:05:14]: [Vote Announcement] rollback passed
+[02:15:18]: [Leave Announcement] zhufree

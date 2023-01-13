@@ -48,16 +48,16 @@ KLEI     1 return {
     description="",
     encode_user_path=true,
     game_mode="survival",
-    intention="cooperative",
     max_players=6,
     name="zhufree的世界",
     online_mode=true,
     password="",
+    playstyle="survival",
     privacy_type=0,
     pvp=false 
   },
   session_id="6DC41F36368C08C8",
-  version=4,
+  version=5,
   world={
     options={
       desc="标准《饥荒》体验。",
