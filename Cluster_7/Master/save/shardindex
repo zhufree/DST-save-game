@@ -37,9 +37,8 @@ KLEI     1 return {
       },
       enabled=true 
     },
-    ["workshop-1207269058"]={ configuration_options={  }, enabled=true },
     ["workshop-1530801499"]={
-      configuration_options={ Hunger_Cost=1, Ownership=false, Sanity_Cost=1 },
+      configuration_options={ ArrowsignEnable=false, HungerCost=1, Ownership=false, SanityCost=1 },
       enabled=true 
     },
     ["workshop-1686705509"]={ configuration_options={  }, enabled=true },
@@ -245,6 +244,8 @@ KLEI     1 return {
         reeds_regrowth="default",
         regrowth="default",
         resettime="none",
+        rifts_enabled="default",
+        rifts_frequency="default",
         roads="default",
         rock="default",
         rock_ice="default",
@@ -288,6 +289,7 @@ KLEI     1 return {
         world_size="default",
         wormhole_prefab="wormhole",
         year_of_the_beefalo="default",
+        year_of_the_bunnyman="default",
         year_of_the_carrat="default",
         year_of_the_catcoon="default",
         year_of_the_gobbler="default",

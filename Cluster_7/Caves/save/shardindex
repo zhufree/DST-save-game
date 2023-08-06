@@ -37,9 +37,8 @@ KLEI     1 return {
       },
       enabled=true 
     },
-    ["workshop-1207269058"]={ configuration_options={  }, enabled=true },
     ["workshop-1530801499"]={
-      configuration_options={ Hunger_Cost=1, Ownership=false, Sanity_Cost=1 },
+      configuration_options={ ArrowsignEnable=false, HungerCost=1, Ownership=false, SanityCost=1 },
       enabled=true 
     },
     ["workshop-1686705509"]={ configuration_options={  }, enabled=true },
@@ -138,6 +137,7 @@ KLEI     1 return {
         crow_carnival="default",
         darkness="default",
         day="default",
+        daywalker="default",
         dropeverythingondespawn="default",
         dustmoths="default",
         earthquakes="default",
@@ -181,6 +181,8 @@ KLEI     1 return {
         reeds="default",
         regrowth="default",
         resettime="none",
+        rifts_enabled_cave="default",
+        rifts_frequency_cave="default",
         roads="never",
         rock="default",
         rocky="default",
@@ -218,6 +220,7 @@ KLEI     1 return {
         wormlights="default",
         worms="default",
         year_of_the_beefalo="default",
+        year_of_the_bunnyman="default",
         year_of_the_carrat="default",
         year_of_the_catcoon="default",
         year_of_the_gobbler="default",
