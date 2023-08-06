@@ -1,3 +1,5 @@
-[00:00:56]: [Join Announcement] zhufree
-[00:55:36]: [Skin Announcement] zhufree feet_willow_gladiator
-[01:44:01]: [Leave Announcement] zhufree
+[00:01:04]: [Join Announcement] zhufree
+[00:02:18]: [Join Announcement] 星
+[00:04:34]: [Skin Announcement] 星 body_polo_red_higgsbury
+[00:36:47]: [Leave Announcement] 星
+[00:36:56]: [Leave Announcement] zhufree

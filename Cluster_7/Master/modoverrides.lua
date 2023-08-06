@@ -36,9 +36,8 @@ return {
     },
     enabled=true 
   },
-  ["workshop-1207269058"]={ configuration_options={  }, enabled=true },
   ["workshop-1530801499"]={
-    configuration_options={ Hunger_Cost=1, Ownership=false, Sanity_Cost=1 },
+    configuration_options={ ArrowsignEnable=false, HungerCost=1, Ownership=false, SanityCost=1 },
     enabled=true 
   },
   ["workshop-1686705509"]={ configuration_options={  }, enabled=true },
